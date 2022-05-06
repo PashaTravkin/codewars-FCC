@@ -20,3 +20,7 @@ function isIsogram(str) {
     }
     return true;
 }
+
+const someAdjective = "аккккккк";
+let myStr = "Learning to code is ";
+myStr += someAdjective
