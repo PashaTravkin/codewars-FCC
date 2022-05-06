@@ -29,3 +29,8 @@ myStr += someAdjective
 let lastNameLength = 0;
 const lastName = "Lovelace";
 lastNameLength = lastName.length;
+
+const lastName = "Lovelace";
+
+
+const lastLetterOfLastName = lastName[lastName.length - 1]
