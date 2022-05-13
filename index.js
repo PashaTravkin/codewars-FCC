@@ -41,3 +41,7 @@ const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks = myNoun + " " + myAdjective + " " + myVerb + " " + myAdverb;
+
+
+const myArray = [50, 60, 70];
+let myData = myArray[0];
