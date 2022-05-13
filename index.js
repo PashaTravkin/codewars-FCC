@@ -34,3 +34,10 @@ const lastName = "Lovelace";
 
 
 const lastLetterOfLastName = lastName[lastName.length - 1]
+
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+const wordBlanks = myNoun + " " + myAdjective + " " + myVerb + " " + myAdverb;
